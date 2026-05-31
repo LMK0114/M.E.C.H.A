@@ -1,0 +1,15 @@
+Library/
+Temp/
+Obj/
+Builds/
+Builds/
+Logs/
+UserSettings/
+.vs/
+*.csproj
+*.sln
+*.userprefs
+*.dll
+*.exe
+.idea/
+.vscode/
